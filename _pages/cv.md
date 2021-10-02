@@ -47,27 +47,3 @@ Awards
 * Senior Project Grant
   * September 2012
   * Given by The Scientific and Technological Research Council of Turkey, TUBITAK.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-  <ul>{% for post in site.service %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
