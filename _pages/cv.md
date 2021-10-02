@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Hacettepe University, 2013
-* M.S. in JComputer Science and Engineering, University of Louisville, 2017
+* M.S. in Computer Science and Engineering, University of Louisville, 2017
 * Ph.D in Computer Science and Engineering, University of Louisville, August 2022 (expected)
 
 Work experience
@@ -34,12 +34,6 @@ Work experience
 
 Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 * CSE Arthur M. Riehl Award
   * May 2021
@@ -74,4 +68,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.service %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
