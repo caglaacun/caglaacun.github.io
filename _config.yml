@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &caglacun
+  username               : &caglaacun
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "A. Cagla Acun"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate in Computer Science at University of Louisville"
   location         : "Louisville, KY"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5Bk9qNYAAAAJ&hl=en"
   email            : "caglacun@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Asuman-Acun-Sener-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,8 +100,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/caglaacun/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
