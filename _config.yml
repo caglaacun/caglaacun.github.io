@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "A. Cagla Acun"
 title_separator          : "-"
-name                     : &name "A. Cagla Acune"
+name                     : &name "A. Cagla Acun"
 description              : &description "Ph.D. Candidate"
 url                      : https://caglaacun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
