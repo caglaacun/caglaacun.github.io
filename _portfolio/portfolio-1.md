@@ -1,6 +1,6 @@
 ---
 title: "2021 USA BMX Derby City Nationals"
-excerpt: "Everest Sener <br/><img src='/images/500x300.png'>"
+excerpt: "Everest Sener <br/><img src='/images/IMG_2990.jpeg'>"
 collection: portfolio
 ---
 
