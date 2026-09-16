@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "A. Cagla Acun"
 title_separator          : "-"
 name                     : &name "A. Cagla Acun"
-description              : &description "Ph.D. Candidate"
+description              : &description "Assistant Professor"
 url                      : https://caglaacun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caglaacun/caglaacun.github.io"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &caglaacun
+#twitter:
+#  username               : &caglaacun
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "A. Cagla Acun"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D Candidate in Computer Science at University of Louisville"
-  location         : "Louisville, KY"
+  bio              : "Assistant Professor in Artificial Intelligence and Data Engineering at Hacettepe University"
+  location         : "Ankara, Türkiye"
   googlescholar    : "https://scholar.google.com/citations?user=5Bk9qNYAAAAJ&hl=en"
   email            : "caglacun@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Asuman-Acun-Sener-2" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,13 +101,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/caglaacun/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0165-2038" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "caglacun"
+  #twitter          : "caglacun"
   vine             :
   weibo            :
   xing             :
