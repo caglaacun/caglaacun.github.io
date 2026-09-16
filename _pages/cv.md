@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Computer Engineering, Hacettepe University, 2013
 * M.S. in Computer Science and Engineering, University of Louisville, 2017
-* Ph.D in Computer Science and Engineering, University of Louisville, August 2024
+* Ph.D in Computer Science and Engineering, University of Louisville, May 2024
 
 Work experience
 ======
